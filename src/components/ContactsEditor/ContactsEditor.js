@@ -48,7 +48,6 @@ export default class ContactsEditor extends Component {
 
   render() {
     const { contacts } = this.state;
-    console.log(contacts);
     return (
       <div>
         <h1>Contacts Editor</h1>
